@@ -1,21 +1,21 @@
-### Hi there 👋, my name is Sayazhan
-I am startup enthusiast and fullstack developer seeking for new opportunities for my projects
+# Hello, my name is Sayazhan Onglassyn!
+I am a Frontend Engineer with expertise in NodeJS server-side development. Currently, I work on StartUp project - [UnApp Space](https://unapp.space). You can reach me via Telegram - @crepiks or LinkedIn - https://www.linkedin.com/in/crepiks/. I am open for communication and offers for participation in Open Source projects.
 
-Skills: VUE JS / REACT / JS / HTML / CSS / PHP / LARAVEL / NODE JS
+### Languages, Technologies and skills: 
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
+![React](https://img.shields.io/badge/-React.js-090909?style=for-the-badge&logo=React)
+![Vue](https://img.shields.io/badge/-Vue.js-090909?style=for-the-badge&logo=vue.js)
+![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=css3)
+![Sass](https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=sass)
+![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
+![Node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=Node.js)
+![Nest](https://img.shields.io/badge/-Nest.js-090909?style=for-the-badge&logo=Nest)
 
-- 🔭 I’m currently working on [UnApp](https://unapp.kz), [Crepiks Academy](https://crepiks.com) 
-- 🌱 I’m currently learning Flutter and Python 
-- 📫 How to reach me: @crepiks - Telegram, sayazhan.onlassyn@mail.ru - Email 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/crepiks)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/crepiks/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sayazhan.onlassyn)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sayazhan.onlasyn/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/11869957)  
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='50' height='50'></a>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=crepiks&show_icons=true)  
-
-![Profile views](https://gpvc.arturio.dev/crepiks)  
+### New technologies that I'm learning
+![Express](https://img.shields.io/badge/-Express.js-090909?style=for-the-badge&logo=express)
+![React Native](https://img.shields.io/badge/-React_Native-090909?style=for-the-badge&logo=React)
+![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=Flutter)
+![Dart](https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=Dart)
+![Swift](https://img.shields.io/badge/-Swift-090909?style=for-the-badge&logo=Swift)
+![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=Kotlin)
