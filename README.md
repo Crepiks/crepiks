@@ -10,10 +10,10 @@ I am a Frontend Engineer with expertise in NodeJS server-side development. Curre
 ![Sass](https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=sass)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
 ![Node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=Node.js)
+![Express](https://img.shields.io/badge/-Express.js-090909?style=for-the-badge&logo=express)
 ![Nest](https://img.shields.io/badge/-Nest.js-090909?style=for-the-badge&logo=Nest)
 
 ### New technologies that I'm learning
-![Express](https://img.shields.io/badge/-Express.js-090909?style=for-the-badge&logo=express)
 ![React Native](https://img.shields.io/badge/-React_Native-090909?style=for-the-badge&logo=React)
 ![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=Flutter)
 ![Dart](https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=Dart)
