@@ -1,5 +1,5 @@
 # Hello, my name is Sayazhan Onglassyn!
-I am a Frontend Engineer with expertise in NodeJS server-side development. Currently, I work on StartUp project - [UnApp Space](https://unapp.space). You can reach me via Telegram - @crepiks or LinkedIn - https://www.linkedin.com/in/crepiks/. I am open for communication and offers for participation in Open Source projects.
+I am a JavaScript engineer with expertise in NodeJS server-side, ReactJS and VueJS development. You can reach me via [Telegram](https://t.me/crepiks) or [LinkedIn](https://www.linkedin.com/in/crepiks).
 
 ### Languages, Technologies and skills: 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
@@ -14,7 +14,6 @@ I am a Frontend Engineer with expertise in NodeJS server-side development. Curre
 ![Nest](https://img.shields.io/badge/-Nest.js-090909?style=for-the-badge&logo=Nest)
 
 ### New technologies that I'm learning
-![React Native](https://img.shields.io/badge/-React_Native-090909?style=for-the-badge&logo=React)
 ![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=Flutter)
 ![Dart](https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=Dart)
 ![Swift](https://img.shields.io/badge/-Swift-090909?style=for-the-badge&logo=Swift)
